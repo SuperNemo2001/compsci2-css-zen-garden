@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+h1{
+    color: darkgreen;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+h2{
+    color: darkgreen;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+h3{
+    color: lightgreen;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+p{
+    color: white;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+body{
+    background-image: url("http://www.jacksturf.com/wp-content/uploads/2016/04/grass-background.jpg")
+}
